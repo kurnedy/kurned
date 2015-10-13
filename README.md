@@ -1,0 +1,2 @@
+# kurned
+tugas2x
